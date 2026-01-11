@@ -1,0 +1,101 @@
+Transaction_ID,Description,Amount,Frequency,Price_Change_Pct,Income_Bracket,Category,Label
+TXN-1001,Netflix Standard,15.99,Monthly,0,High,Entertainment,Safe
+TXN-1002,Netflix Standard,15.99,Monthly,0,Low,Entertainment,Safe
+TXN-1003,SpeedyCash Loan Repay,45.5,Weekly,0.05,Low,Loan_Repayment,Safe
+TXN-1004,SpeedyCash Loan Repay,45.5,Weekly,0.02,Low,Loan_Repayment,Safe
+TXN-1005,Amex Platinum Fee,695,Annually,0,High,Finance,Safe
+TXN-1006,Rent-A-Center Furniture,89.99,Weekly,0,Low,Retail,Safe
+TXN-1007,Equinox Gym,250,Monthly,0,High,Health,Safe
+TXN-1008,Planet Fitness,10,Monthly,0,Low,Health,Safe
+TXN-1009,Sketchy VPN Free Trial,49.99,Monthly,500,High,Software,Predatory
+TXN-1010,Sketchy VPN Free Trial,49.99,Monthly,500,Low,Software,Predatory
+TXN-1011,Utility Bill City Power,120.5,Monthly,0.15,Low,Utilities,Safe
+TXN-1012,Utility Bill City Power,145,Monthly,0.05,High,Utilities,Safe
+TXN-1013,Mystery Box Sub,99.99,Monthly,100,Low,Retail,Predatory
+TXN-1014,Mystery Box Sub,99.99,Monthly,100,High,Retail,Predatory
+TXN-1015,Check Cashing Fee,12,Weekly,0,Low,Finance,Safe
+TXN-1016,Wealthfront Deposit,500,Monthly,0,High,Finance,Safe
+TXN-1017,Payday Advance Fee,15,Bi-Weekly,0,Low,Loan_Repayment,Safe
+TXN-1018,NYTimes Subscription,17,Monthly,0,High,News,Safe
+TXN-1019,Zombie App (Unused),4.99,Monthly,0,Low,Software,Predatory
+TXN-1020,Zombie App (Unused),4.99,Monthly,0,High,Software,Predatory
+TXN-1021,MetroPCS Prepaid,40,Monthly,0,Low,Utilities,Safe
+TXN-1022,Verizon Postpaid,85,Monthly,0,High,Utilities,Safe
+TXN-1023,Overdraft Fee Protection,35,Monthly,0,Low,Finance,Safe
+TXN-1024,Concierge Service,35,Monthly,0,High,Service,Safe
+TXN-1025,Hidden Fee 'Premium',19.99,Monthly,999,Low,Scam,Predatory
+TXN-1026,SpeedyCash Loan Repay,45.5,Weekly,0.05,High,Loan_Repayment,Safe
+TXN-1027,Wealthfront Deposit,500,Monthly,0,High,Finance,Safe
+TXN-1028,Sketchy VPN Free Trial,49.99,Monthly,500,High,Software,Predatory
+TXN-1029,Sketchy VPN Free Trial,49.99,Monthly,500,High,Software,Predatory
+TXN-1030,Equinox Gym,250,Monthly,0,Low,Health,Safe
+TXN-1031,Sketchy VPN Free Trial,49.99,Monthly,500,High,Software,Predatory
+TXN-1032,Netflix Standard,15.99,Monthly,0,Low,Entertainment,Safe
+TXN-1033,Payday Advance Fee,15,Bi-Weekly,0,Low,Loan_Repayment,Safe
+TXN-1034,Utility Bill City Power,110.91,Monthly,0.04,Low,Utilities,Safe
+TXN-1035,Verizon Postpaid,85,Monthly,0,High,Utilities,Safe
+TXN-1036,Zombie App (Unused),4.99,Monthly,0,High,Software,Predatory
+TXN-1037,Concierge Service,35,Monthly,0,High,Service,Safe
+TXN-1038,Sketchy VPN Free Trial,49.99,Monthly,500,Low,Software,Predatory
+TXN-1039,Hidden Fee 'Premium',19.99,Monthly,999,High,Scam,Predatory
+TXN-1040,Zombie App (Unused),4.99,Monthly,0,High,Software,Predatory
+TXN-1041,Verizon Postpaid,85,Monthly,0,Low,Utilities,Safe
+TXN-1042,NYTimes Subscription,17,Monthly,0,Low,News,Safe
+TXN-1043,Zombie App (Unused),4.99,Monthly,0,High,Software,Predatory
+TXN-1044,Verizon Postpaid,85,Monthly,0,High,Utilities,Safe
+TXN-1045,Zombie App (Unused),4.99,Monthly,0,Low,Software,Predatory
+TXN-1046,Amex Platinum Fee,695,Annually,0,Low,Finance,Safe
+TXN-1047,Overdraft Fee Protection,35,Monthly,0,Low,Finance,Safe
+TXN-1048,Mystery Box Sub,99.99,Monthly,100,High,Retail,Predatory
+TXN-1049,Utility Bill City Power,114.46,Monthly,0.14,Low,Utilities,Safe
+TXN-1050,NYTimes Subscription,17,Monthly,0,High,News,Safe
+TXN-1051,Utility Bill City Power,123.46,Monthly,0.04,Low,Utilities,Safe
+TXN-1052,Mystery Box Sub,99.99,Monthly,100,Low,Retail,Predatory
+TXN-1053,Utility Bill City Power,134.06,Monthly,0.01,Low,Utilities,Safe
+TXN-1054,Wealthfront Deposit,500,Monthly,0,Low,Finance,Safe
+TXN-1055,SpeedyCash Loan Repay,45.5,Weekly,0.05,High,Loan_Repayment,Safe
+TXN-1056,Amex Platinum Fee,695,Annually,0,Low,Finance,Safe
+TXN-1057,Overdraft Fee Protection,35,Monthly,0,Low,Finance,Safe
+TXN-1058,Netflix Standard,15.99,Monthly,0,Low,Entertainment,Safe
+TXN-1059,Equinox Gym,250,Monthly,0,High,Health,Safe
+TXN-1060,Mystery Box Sub,99.99,Monthly,100,High,Retail,Predatory
+TXN-1061,Overdraft Fee Protection,35,Monthly,0,High,Finance,Safe
+TXN-1062,Mystery Box Sub,99.99,Monthly,100,Low,Retail,Predatory
+TXN-1063,Mystery Box Sub,99.99,Monthly,100,High,Retail,Predatory
+TXN-1064,Planet Fitness,10,Monthly,0,High,Health,Safe
+TXN-1065,Netflix Standard,15.99,Monthly,0,High,Entertainment,Safe
+TXN-1066,Wealthfront Deposit,500,Monthly,0,Low,Finance,Safe
+TXN-1067,Mystery Box Sub,99.99,Monthly,100,High,Retail,Predatory
+TXN-1068,Planet Fitness,10,Monthly,0,High,Health,Safe
+TXN-1069,Check Cashing Fee,12,Weekly,0,High,Finance,Safe
+TXN-1070,Wealthfront Deposit,500,Monthly,0,High,Finance,Safe
+TXN-1071,Amex Platinum Fee,695,Annually,0,Low,Finance,Safe
+TXN-1072,Sketchy VPN Free Trial,49.99,Monthly,500,High,Software,Predatory
+TXN-1073,Equinox Gym,250,Monthly,0,Low,Health,Safe
+TXN-1074,SpeedyCash Loan Repay,45.5,Weekly,0,High,Loan_Repayment,Safe
+TXN-1075,MetroPCS Prepaid,40,Monthly,0,High,Utilities,Safe
+TXN-1076,Payday Advance Fee,15,Bi-Weekly,0,Low,Loan_Repayment,Safe
+TXN-1077,Mystery Box Sub,99.99,Monthly,100,High,Retail,Predatory
+TXN-1078,Zombie App (Unused),4.99,Monthly,0,High,Software,Predatory
+TXN-1079,Hidden Fee 'Premium',19.99,Monthly,999,High,Scam,Predatory
+TXN-1080,Wealthfront Deposit,500,Monthly,0,Low,Finance,Safe
+TXN-1081,Utility Bill City Power,115.36,Monthly,0.01,High,Utilities,Safe
+TXN-1082,Zombie App (Unused),4.99,Monthly,0,Low,Software,Predatory
+TXN-1083,Zombie App (Unused),4.99,Monthly,0,High,Software,Predatory
+TXN-1084,Netflix Standard,15.99,Monthly,0,High,Entertainment,Safe
+TXN-1085,Zombie App (Unused),4.99,Monthly,0,High,Software,Predatory
+TXN-1086,NYTimes Subscription,17,Monthly,0,Low,News,Safe
+TXN-1087,Sketchy VPN Free Trial,49.99,Monthly,500,High,Software,Predatory
+TXN-1088,Zombie App (Unused),4.99,Monthly,0,High,Software,Predatory
+TXN-1089,Utility Bill City Power,156.57,Monthly,0.12,High,Utilities,Safe
+TXN-1090,Utility Bill City Power,155.78,Monthly,0.16,High,Utilities,Safe
+TXN-1091,Sketchy VPN Free Trial,49.99,Monthly,500,Low,Software,Predatory
+TXN-1092,Planet Fitness,10,Monthly,0,Low,Health,Safe
+TXN-1093,Zombie App (Unused),4.99,Monthly,0,Low,Software,Predatory
+TXN-1094,Concierge Service,35,Monthly,0,Low,Service,Safe
+TXN-1095,Sketchy VPN Free Trial,49.99,Monthly,500,High,Software,Predatory
+TXN-1096,Mystery Box Sub,99.99,Monthly,100,High,Retail,Predatory
+TXN-1097,Mystery Box Sub,99.99,Monthly,100,High,Retail,Predatory
+TXN-1098,Zombie App (Unused),4.99,Monthly,0,Low,Software,Predatory
+TXN-1099,SpeedyCash Loan Repay,45.5,Weekly,0.02,Low,Loan_Repayment,Safe
+TXN-1100,NYTimes Subscription,17,Monthly,0,High,News,Safe
