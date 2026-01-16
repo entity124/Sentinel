@@ -10,4 +10,7 @@ To train our chat assistant:
 
 
 Training the local AI model
-v
+<img width="583" height="369" alt="Screenshot 2026-01-16 at 2 56 41 PM" src="https://github.com/user-attachments/assets/38a08446-7c1d-4461-9639-d736faa638aa" />
+
+
+
